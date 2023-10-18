@@ -1,6 +1,5 @@
 package koschei.models;
 
-import org.springframework.stereotype.Component;
 
 
 public class Duck5 {
